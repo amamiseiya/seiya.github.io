@@ -1,0 +1,10 @@
+
+title = "天海星夜的博客"
+baseURL = "https://amamiseiya.github.io/"
+enableGitInfo = false
+theme = "FixIt"
+defaultContentLanguage = 'zh-cn'
+
+
+[markup.goldmark.renderer]
+  hardWraps = true

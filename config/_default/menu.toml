@@ -1,0 +1,33 @@
+[[main]]
+  identifier = "categories"
+  parent = ""
+  pre = ""
+  post = ""
+  name = "Categories"
+  url = "/categories/"
+  title = ""
+  weight = 2
+  [main.params]
+    icon = "fa-solid fa-folder-tree"
+[[main]]
+  identifier = "tags"
+  parent = ""
+  pre = ""
+  post = ""
+  name = "Tags"
+  url = "/tags/"
+  title = ""
+  weight = 3
+  [main.params]
+    icon = "fa-solid fa-tags"
+[[main]]
+  identifier = "about"
+  parent = ""
+  pre = ""
+  post = ""
+  name = "关于我"
+  url = "/about/"
+  title = ""
+  weight = 40
+  [main.params]
+    icon = "fa-solid fa-user"
